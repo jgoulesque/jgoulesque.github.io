@@ -9,5 +9,3 @@ redirect_from:
 
 EN: I am a PhD candidate in Economics at Bordeaux School of Economics (BxSE). My research lies at the intersection of international trade, economic history, and conflict economics, with a particular focus on the effects of armed conflicts on trade patterns and competitiveness, and on the role of strategic goods in shaping international economic relations.
 
-FR: Je suis doctorant en sciences économiques à BxSE (Université de Bordeaux). Mes recherches se concentrent sur les causes et les conséquences économiques des conflits, notamment dans le cadre des échanges internationaux et souvent dans une perspective historienne.  
-

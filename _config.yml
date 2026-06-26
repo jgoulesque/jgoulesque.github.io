@@ -1,7 +1,7 @@
 # Site settings
 title: "Julien Goulesque"
 name: "Julien Goulesque"
-description: "PhD Candidate in Economics"
+description: "PhD Candidate in International Economics"
 url: "https://jgoulesque.github.io"
 baseurl: ""
 
@@ -9,7 +9,7 @@ baseurl: ""
 author:
   name: "Julien Goulesque"
  # avatar: "images/profile.jpg"  # add a photo later
-  bio: "PhD Candidate in Economics (BxSE - Université de Bordeaux)"
+  bio: "PhD Candidate in International Economics (BxSE - Université de Bordeaux)"
   email: "julien.goulesque@u-bordeaux.fr"
   # Academic links:
   orcid: "https://orcid.org/0009-0001-2881-3906"
