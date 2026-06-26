@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Julien Goulesque",
+    "email": "julien.goulesque@u-bordeaux.fr / julien.goulesque@outlook.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jgoulesque.github.io/",
+    "summary": "PhD candidate in economics at BxSE (Université de Bordeaux)",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Bordeaux",
+      "countryCode": "France",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
-        "network": "ORCID",
+        "network": "orcid",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0001-2881-3906"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
